@@ -13,7 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
         //giai quyet conflict
         //tinh nang 1
-        //tinh nang 2
-        //tinh nang --no-ff
     }
 }
