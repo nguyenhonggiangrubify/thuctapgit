@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //tinh nang 1
         //tinh nang 2
         //tinh nang --no-ff
+        //push
     }
 }
