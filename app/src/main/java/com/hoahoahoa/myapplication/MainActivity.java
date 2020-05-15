@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //giai quyet conflict
+        //tinh nang 1
     }
 }
