@@ -11,10 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //giai quyet conflict
-        //tinh nang 1
-        //tinh nang 2
-        //tinh nang --no-ff
-        //push
+        //develop thay doi
     }
 }
